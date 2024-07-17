@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ScanToCart",
+    "slug": "my_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ScanToCart2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ellipse.png",
+      "backgroundColor": "blue"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash3.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
